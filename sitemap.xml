@@ -240,4 +240,14 @@
     <lastmod>2026-08-08</lastmod>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://mvp1.com.au/privacy-policy</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://mvp1.com.au/terms-conditions</loc>
+    <lastmod>2026-08-21</lastmod>
+    <priority>0.3</priority>
+  </url>
 </urlset>
