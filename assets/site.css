@@ -88,8 +88,8 @@ section{position:relative}
 .mb-4{margin-bottom:var(--s-4)}
 .measure{max-width:72ch}
 
-.eyebrow{font-family:var(--fh);font-weight:700;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--yellow);display:flex;align-items:center;gap:12px}
-.eyebrow::before{content:"";width:26px;height:1px;background:var(--yellow);flex:none}
+.eyebrow{font-family:var(--fh);font-weight:700;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--yellow);display:flex;align-items:center;gap:10px}
+.eyebrow::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--yellow);flex:none}
 .eyebrow-c{justify-content:center}
 .light .eyebrow,.grey .eyebrow{color:var(--blue)}
 .light .eyebrow::before,.grey .eyebrow::before{background:var(--blue)}
@@ -463,6 +463,8 @@ section[data-screen-label="Home, capabilities"] .cards.c3 > .card:nth-child(3){f
 .press-track{display:flex;align-items:center;gap:44px;width:max-content;animation:marquee 30s linear infinite}
 .press-item{font-family:var(--fh);font-weight:700;font-size:18px;letter-spacing:.01em;color:var(--dim-strong);flex:none;transition:color var(--t-fast) var(--ease-out)}
 .press-item:hover{color:var(--yellow)}
+.light .press-item,.grey .press-item{color:var(--muted-light)}
+.light .press-item:hover,.grey .press-item:hover{color:var(--blue)}
 @media (prefers-reduced-motion: reduce){.marquee-track,.press-track{animation:none}}
 .form-status:not([hidden]){animation:rise-in 320ms var(--ease-out)}
 .form-status[data-state="ok"]{border-color:var(--yellow);color:#fff}
