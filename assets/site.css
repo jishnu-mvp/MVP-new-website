@@ -677,6 +677,7 @@ section[data-screen-label="Home, capabilities"] .cards.c3 > .card:nth-child(3){f
   .scroll-hint{display:none}
   .stats,.stats.s3{grid-template-columns:1fr}
   .fcols{grid-template-columns:1fr}
+  .cards.c3>.card:last-child:nth-child(odd){grid-column:span 1}
 }
 
 @media(prefers-reduced-motion:reduce){
