@@ -39,7 +39,7 @@ window.RESOURCES = [
 
 ["news","MVP Ventures: Redefining Innovation in the Digital Space","https://www.forbes.com.au/brand-voice/uncategorized/mvp-ventures-redefining-innovation-in-the-digital-space","Read Coverage","Forbes Australia"],
 ["news","7 Steps to Ensure Your Business Is Your Most Valuable Investment","https://finance.yahoo.com/news/7-steps-ensure-business-most-094000259.html","Read Coverage","Yahoo Finance"],
-["news","The Rise of AI-Powered Platforms: A Glimpse into the Future","https://markets.businessinsider.com/news/stocks/the-rise-of-ai-powered-platforms-a-glimpse-into-the-future-with-mvp-ventures-1033516295","Read Coverage","Business Insider"],
+
 ["news","How to Get Your Business to Work Without You","https://theabj.com.au/2024/05/28/how-to-get-your-business-to-work-without-you-insights-from-mvp-ventures/","Read Coverage","The Australian Business Journal"],
 ["news","Scaling Your Business with the Founder of MVP Ventures","https://dynamicbusiness.com/featured/founder-friday/scaling-your-business-with-the-founder-of-mvp-ventures.html","Read Coverage","Dynamic Business"],
 ["news","Unveiling the Power of Platform Business Models in Tech","https://techbullion.com/unveiling-the-power-of-platform-business-models-in-tech-leveraging-ai-for-growth/","Read Coverage","TechBullion"],
